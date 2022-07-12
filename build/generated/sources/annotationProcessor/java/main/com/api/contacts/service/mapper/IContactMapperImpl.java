@@ -5,12 +5,12 @@ import com.api.contacts.controller.dto.stdout.ContactStdOutDto;
 import com.api.contacts.model.contact.Contact;
 import java.util.ArrayList;
 import java.util.List;
-import javax.annotation.processing.Generated;
+import javax.annotation.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2022-07-12T14:53:58-0500",
-    comments = "version: 1.4.2.Final, compiler: IncrementalProcessingEnvironment from gradle-language-java-7.4.1.jar, environment: Java 18.0.1.1 (Oracle Corporation)"
+    date = "2022-07-12T15:47:32-0500",
+    comments = "version: 1.4.2.Final, compiler: IncrementalProcessingEnvironment from gradle-language-java-7.4.1.jar, environment: Java 1.8.0_202 (Oracle Corporation)"
 )
 public class IContactMapperImpl implements IContactMapper {
 
